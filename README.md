@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paxkoal1 Ruam Martins
-- 👀 I’m interested in apliccations web, databases, networks.
+- 👀 I’m interested in applications web, databases, networks.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at Instagram: @ruamrtp, Linkedin: Ruam Martins
